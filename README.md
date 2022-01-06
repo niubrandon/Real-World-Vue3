@@ -1,5 +1,16 @@
 # real-world-vue
 
+This is a tutorial project from Vue Mastery: Real World Vue 3.
+From this tutorial, you can learn the following:
+- Single file components
+- Vue Router Essentials
+- API Calls with Axios
+- Dynamic Routing
+
+Summary:
+......
+
+
 ## Project setup
 ```
 npm install
